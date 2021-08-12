@@ -6,11 +6,11 @@ This game is merely a sample game. The result of a LibGDX tutorial.
 
 ## How to play
 
-#### Movement
+#### Controls
 
-A/D - Move Left/Right
+[A/D]     - Move Left / Right
 
-LShift - Fire
+[LShift]  - Fire
 
 #### Objective
 
